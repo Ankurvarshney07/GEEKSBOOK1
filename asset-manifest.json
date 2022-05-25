@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GEEKSBOOK1/static/css/main.e6c13ad2.css",
+    "main.js": "/GEEKSBOOK1/static/js/main.84906974.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/GEEKSBOOK1/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/GEEKSBOOK1/index.html",
+    "main.e6c13ad2.css.map": "/GEEKSBOOK1/static/css/main.e6c13ad2.css.map",
+    "main.84906974.js.map": "/GEEKSBOOK1/static/js/main.84906974.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/GEEKSBOOK1/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.84906974.js"
+  ]
+}
